@@ -1,0 +1,4 @@
+Qsn)How does free know to deallocate the memory which is allocated dynamically??
+Ans)Generally we deallocate memory and make to point the pointer as NULL because even after we use that pointer by mistake we
+can find the bug easily.
+When we use the dynamic memory allocation techniques for memory allocations, then this is done in the actual heap section. It creates one word larger than the requested size. This extra word is used to store the size. This size is used by free() when it wants to clear the memory space.
