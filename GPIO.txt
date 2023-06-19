@@ -1,0 +1,14 @@
+https://www.kernel.org/doc/Documentation/gpio/gpio.txt
+
+Important GPIO address video  :
+http://derekmolloy.ie/gpios-on-the-beaglebone-black-using-device-tree-overlays/
+
+https://github.com/jadonk/validation-scripts/blob/master/test-capemgr/README.md
+http://devicetree.org/Device_Tree_Usage
+
+https://www.kernel.org/doc/Documentation/gpio/sysfs.txt
+
+https://stackoverflow.com/questions/26841530/beaglebone-black-get-interrupts-from-user-space
+
+
+http://derekmolloy.ie/gpios-on-the-beaglebone-black-using-device-tree-overlays/
